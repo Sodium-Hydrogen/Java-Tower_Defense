@@ -8,14 +8,12 @@ import javafx.scene.image.Image;
 
 public class Tower extends MapObject{
 
-	public Tower(int posx, int posy, Image bi, int imageW, int imageH)
-	{
+	public Tower(int posx, int posy, Image bi, int imageW, int imageH){
 		super(posx, posy, bi, imageW, imageH);
 	}
 
 	//make the tower fire
-	public void fire(Graphics g)
-	{
+	public void fire(Graphics g)	{
 	}
 
 }

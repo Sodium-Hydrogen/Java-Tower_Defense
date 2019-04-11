@@ -8,14 +8,12 @@ public class Enemy extends MovingObject{
 
 	private int hitPoints;
 
-	public Enemy(int posx, int posy, BufferedImage bi, int imageW, int imageH, int vx, int vy, int hitPoints)
-	{
-		super(posx, posy, bi, imageW, imageH, vx, vy);
+	public Enemy(int posx, int posy, Image img, int imageW, int imageH, int vx, int vy, int hitPoints){
+		super(posx, posy, img, imageW, imageH, vx, vy);
 		this.hitPoints = hitPoints;
 	}
 
-	public int getHitPoints()
-	{
+	public int getHitPoints(){
 		return hitPoints;
 	}
 
