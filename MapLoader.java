@@ -18,52 +18,54 @@ import javax.swing.JPanel;
 @SuppressWarnings({ "serial", "unused" })
 public class MapLoader extends JPanel {
 
-	//Instance variables
+	//Instance variables	
 	public MapLoader(){
 
-		MyCanvas myCanvas = null;
+		MyCanvas myCanvas = null; 
 		myCanvas = new MyCanvas(4, 4);
 
-
+		
 		//load tile images
 		for (int x = 0; x< 4; x++)
 			for (int y = 0; y < 4; y++)
 				myCanvas.addPicture(x, y,"grass_02.png");
-
+		
 		if (myCanvas != null){
 			this.add(myCanvas);
 		}
 		this.setVisible(true);
 	}
-
-
-	public void createTower(int x, int y, int style){
+ 
+	
+	public void createTower(int x, int y, int style)
+	{
 	//	try {
-
+		
 	//	}
 	//	catch (IOException e)
 	//	{
 		System.out.println("Unable to generate tower due to IO exception");
 	//	}
 	}
-
-	public void start(){
-
+	
+	public void start()
+	{
+		
 		//try {
-
+		
 	//	}
 	//	catch (IOException e)
 	//	{
 			System.out.println("Unable to generate enemies due to IO exception");
 	//	}
 	}
-
+	
 	public void paint(Graphics g){
 		super.paint(g);
 		try{
-
+			
 		//Draw the things that need to be drawn
-
+				
 				Thread.sleep(1000);
 				repaint();
 		}
@@ -71,7 +73,7 @@ public class MapLoader extends JPanel {
 			e.printStackTrace();
 		}
 	}
-
+	
 }
 
 

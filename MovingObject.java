@@ -4,20 +4,22 @@
 
 import java.awt.Color;
 import java.awt.Graphics;
-import javafx.scene.image.Image;
+import java.awt.image.BufferedImage;
 
 public class MovingObject extends MapObject {
-
+	
 	private int vx;
 	private int vy;
-
-	public MovingObject(int posx, int posy, Image img, int imageW, int imageH, int vx, int vy){
-		super(posx, posy, img,  imageW, imageH);
+	
+	public MovingObject(int posx, int posy, BufferedImage bi, int imageW, int imageH, int vx, int vy)
+	{
+		super(posx, posy, bi,  imageW, imageH);
 		this.vx=vx;
 		this.vy=vy;
 	}
-
-	public void drawImage(Graphics g)	{
+	
+	public void drawImage(Graphics g)
+	{
 		g.drawImage(bi,posx+=vx, posy+=vy,imageW,imageH,null);
 	}
 
