@@ -1,0 +1,51 @@
+/* JavaFX CSS
+
+  Author: Michael Julander
+  Date: April 25, 2019
+  Version: 1
+
+*/
+
+.root,
+.button,
+.combo-box,
+#border-on-pane,
+.combo-box .list-cell{
+	-fx-background-color: BLACK;
+}
+.button,
+.combo-box,
+#border-on-pane{
+	-fx-border-color: BLUE;
+}
+.button,
+.combo-box,
+.combo-box .list-cell{
+	-fx-text-fill: BLUE;
+	-fx-border-width: 2px;
+	-fx-border-style: solid;
+	-fx-border-radius: 50px;
+	-fx-background-radius: 50px;
+}
+#white-text,
+#tower-button{
+	-fx-text-fill: WHITE;
+}
+#tower-button{
+	-fx-border-width: 0px;
+	-fx-background-color: #0000;
+}
+.combo-box .list-cell:hover{
+	-fx-text-fill: YELLOW;
+	-fx-background-color: #333;
+}
+.combo-box-popup .list-cell{
+	-fx-border-radius: 0px;
+	-fx-background-radius: 0px;
+}
+.combo-box .arrow{
+	-fx-background-color: YELLOW;
+}
+.label{
+	-fx-text-fill: WHITE;
+}

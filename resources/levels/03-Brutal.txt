@@ -1,0 +1,13 @@
+13 12 48 100 10 190
+b b b b b b X b b b b b b
+b b b b b b v b b b b b b
+b b r h h h S l r h l b b
+b b R h h h l R f b F l b
+b b b r h l v b R h L v b
+b r h f b F L b b b b v b
+b v b R h L b b r h l v b
+b v r h l b b r f b F L b
+b R f b F l b v R h L b b
+b b R h L R s L b b b b b
+b b b b b b v b b b b b b
+b b b b b b E b b b b b b

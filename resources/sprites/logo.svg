@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg832"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/d3l74/Documents/java/1410/Tower-Defense/resources/sprites/logo.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <defs
+     id="defs826" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="101.24035"
+     inkscape:cy="203.10874"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1533"
+     inkscape:window-height="845"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata829">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g988"
+       transform="translate(5e-7,-5.2916649)">
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+         id="path1389"
+         d="m 0,252.02078 v 13.22917 H 0.66145832 4.6302083 v -5.29167 h 0.79375 v -0.0114 a 4.630208,3.9687494 0 0 0 0.2645833,0.0114 4.630208,3.9687494 0 0 0 4.6302084,-3.96875 4.630208,3.9687494 0 0 0 -4.6302084,-3.96875 4.630208,3.9687494 0 0 0 -0.2645833,0.008 v -0.008 h -0.79375 -1.5875 -2.38124998 z m 5.2916666,3.30729 a 0.6614583,0.66145806 0 0 1 0.6614583,0.66146 0.6614583,0.66145806 0 0 1 -0.6614583,0.66146 0.6614583,0.66145806 0 0 1 -0.6614583,-0.66146 0.6614583,0.66145806 0 0 1 0.6614583,-0.66146 z"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+         inkscape:connector-curvature="0"
+         id="path1377"
+         d="m 28.44271,252.02083 a 6.614583,6.614583 0 0 0 -6.614584,6.61458 6.614583,6.614583 0 0 0 6.614584,6.61458 6.614583,6.614583 0 0 0 5.909717,-3.65971 l -5.909717,-2.95487 5.914368,-2.95691 a 6.614583,6.614583 0 0 0 -5.914368,-3.65767 z"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path931"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 15.875001,260.61974 a 0.99218677,0.99218688 0 0 1 0.992187,0.99219 0.99218677,0.99218688 0 0 1 -0.992187,0.99218 0.99218677,0.99218688 0 0 1 -0.992188,-0.99218 0.99218677,0.99218688 0 0 1 0.992188,-0.99219 z m 0,-8.59896 -3.307292,6.61458 -3.3072917,6.61459 h 6.6145837 6.614583 l -3.307291,-6.61459 z"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+         y="256.65103"
+         x="35.057289"
+         height="3.96875"
+         width="7.9375"
+         id="rect933"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+         inkscape:connector-curvature="0"
+         id="rect935"
+         d="m 57.385128,252.02082 -3.307291,3.3073 -3.307292,3.30729 -3.307291,-3.30729 -3.145545,-3.14553 v 13.0674 h 13.229167 v -13.22917 z"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+         inkscape:connector-curvature="0"
+         id="rect955"
+         d="m 70.77604,252.02083 v 13.22916 h 13.229164 v -13.22916 h -6.614581 v 6.61458 l -3.307292,-3.30729 z"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+         id="path931-7"
+         d="m 64.161461,252.02083 -3.307292,6.61458 -3.307292,6.61458 h 6.614584 6.614583 l -3.307291,-6.61458 z m 0,8.59896 a 0.99218679,0.99218689 0 0 1 0.992187,0.99218 0.99218679,0.99218689 0 0 1 -0.992187,0.99219 0.99218679,0.99218689 0 0 1 -0.992188,-0.99219 0.99218679,0.99218689 0 0 1 0.992188,-0.99218 z"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1020"
+       transform="matrix(0.81818057,0,0,0.81818057,2.7882395,54.000368)">
+      <g
+         transform="translate(5.9261373)"
+         id="g995">
+        <path
+           inkscape:connector-curvature="0"
+           id="path847"
+           d="m 28.25745,267.89578 a 6.6145835,6.6145835 0 0 0 -6.614583,6.61459 6.6145835,6.6145835 0 0 0 6.614583,6.61458 6.6145835,6.6145835 0 0 0 6.614583,-6.61458 6.6145835,6.6145835 0 0 0 -6.614583,-6.61459 z m 0,5.6224 a 0.99218675,0.99218685 0 0 1 0.992188,0.99219 0.99218675,0.99218685 0 0 1 -0.992188,0.99218 0.99218675,0.99218685 0 0 1 -0.992187,-0.99218 0.99218675,0.99218685 0 0 1 0.992187,-0.99219 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccscccccccscscs"
+           inkscape:export-ydpi="100"
+           inkscape:export-xdpi="100"
+           inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+           id="path883"
+           d="m 66.176057,267.89582 v 13.22917 h 0.66146 9.514592 l -5.545842,-5.29167 h 0.793749 v -0.0114 c 0.08805,0.006 0.17628,0.01 0.264583,0.0114 2.557194,0 4.630208,-1.77687 4.630208,-3.96875 0,-2.19188 -2.073014,-3.96875 -4.630208,-3.96875 -0.08826,5e-4 -0.176496,0.003 -0.264583,0.008 v -0.008 h -0.79375 -1.5875 -2.38125 z m 5.291668,3.30729 c 0.365313,0 0.661458,0.29615 0.661457,0.66146 10e-7,0.36531 -0.296144,0.66146 -0.661457,0.66146 -0.365314,0 -0.66146,-0.29615 -0.661459,-0.66146 -10e-7,-0.36531 0.296144,-0.66146 0.661459,-0.66146 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path831"
+           d="m 7.5103965,267.89578 v 5.29167 h 4.8668865 v 7.9375 h 0.472322 2.834969 v -5.29167 -2.64583 h 5.054989 v -5.29167 h -5.054989 -3.307291 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path839"
+           d="m 64.686751,267.89578 -13.229166,0.16177 v 13.0674 h 13.229166 v -1.5875 h -9.209256 v -2.75278 h 3.96875 v -1.19063 h -3.96875 v -3.20034 h 9.209256 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path852"
+           d="m 33.787492,267.89582 4.240117,8.48024 2.374466,4.74893 1.865652,-3.7313 1.865651,3.7313 2.374466,-4.74893 4.240117,-8.48024 h -8.480234 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1004">
+        <path
+           inkscape:export-ydpi="100"
+           inkscape:export-xdpi="100"
+           inkscape:export-filename="/home/d3l74/Documents/java/pacman/resources/pacman/logo.png"
+           inkscape:connector-curvature="0"
+           id="path947"
+           d="m 56.911433,283.77083 v 13.22916 h 13.229164 v -13.22916 h -6.614581 v 6.61458 l -3.307292,-3.30729 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="rect939"
+           d="m 1.3229167e-7,283.77078 v 6.61458 6.61459 H 6.6145834 a 6.6145835,6.6145835 0 0 0 6.6145836,-6.61459 6.6145835,6.6145835 0 0 0 -6.6145836,-6.61458 z M 7.750429,291.13519 c 0.6088592,0 1.1022621,0.49342 1.1022595,1.10226 2.6e-6,0.60886 -0.4934003,1.10225 -1.1022595,1.10225 -0.6088538,0 -1.1022594,-0.49339 -1.1022568,-1.10225 -2.6e-6,-0.60884 0.493403,-1.10226 1.1022568,-1.10226 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 27.316235,283.77078 -13.229165,4e-5 v 13.22913 h 13.229165 v -1.5875 h -9.209256 v -2.75278 h 3.96875 v -1.19063 h -3.96875 v -3.20034 h 9.209256 z"
+           id="path927"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path943"
+           d="m 32.351928,295.38887 2.8e-5,-2.75278 h 3.96875 v -1.19063 h -3.96875 v -3.20034 h 9.209256 v -4.49796 l -13.229166,0.0237 v 13.20551 h 4.019881 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path945"
+           d="m 55.900684,283.77078 -13.229166,4e-5 v 13.22913 h 13.229166 v -1.5875 h -9.209256 v -2.75278 h 3.96875 v -1.19063 h -3.96875 v -3.20034 h 9.209256 z"
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 77.552635,283.77082 a 5.2640244,5.2640244 0 0 0 -5.264025,5.26402 5.2640244,5.2640244 0 0 0 1.538494,3.71402 l -2.708505,2.70851 a 5.2640244,5.2640244 0 0 0 3.718538,1.54262 5.2640244,5.2640244 0 0 0 5.264024,-5.26403 5.2640244,5.2640244 0 0 0 -1.538493,-3.71402 l 2.708505,-2.70851 a 5.2640244,5.2640244 0 0 0 -3.718538,-1.54261 z m -6.366181,4.17422 a 5.2640244,5.2640244 0 0 0 -0.04483,0.0448 z m 10.06169,4.83589 -0.04483,0.0448 a 5.2640244,5.2640244 0 0 0 0.04483,-0.0448 z"
+           id="path966"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 95.857478,283.77078 -13.229166,4e-5 v 13.22913 h 13.229166 v -1.5875 h -9.209256 v -2.75278 h 3.96875 v -1.19063 h -3.96875 v -3.20034 h 9.209256 z"
+           id="path979"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>

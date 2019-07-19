@@ -1,0 +1,13 @@
+12 12 48 25 10 150
+b b b b b b b b b b b b
+b b r h h l b b r h h x
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+b b v b b v b b v b b b
+e h L b b R h h L b b b
+b b b b b b b b b b b b
