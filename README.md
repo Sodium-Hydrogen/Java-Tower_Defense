@@ -1,6 +1,6 @@
 RUN
 ```
-$ java -p resources/javafx-lib --add-modules javafx.controls -cp bin towerd.GameDriver
+$ java -p resources/javafx-lib --add-modules javafx.controls -cp bin/ towerd.GameDriver
 ```
 
 The build.sh file is a unix script file that will build and run the program
